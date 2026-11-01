@@ -4,7 +4,11 @@
 > model (Claude Opus 5.5). Expect misreadings; the IPA
 > mapping is partly hypothetical.
 >
-> Honestly, I just wanted to know whats possible out of the box. I assume if one would use a specialized model, one would get much better results.
+> Honestly, I just wanted to know what's possible out of the box, with a
+> mid-tier general-purpose model and no training. I assume a specialised
+> handwriting model (e.g. Kraken/eScriptorium) trained on a few dozen/hundred
+> corrected pages of Lloyd's hand, combined with the archive's full-resolution
+> scans, would push the results to another level.
 
 The handwritten notebooks of the extinct
 [/Xam](https://en.wikipedia.org/wiki/%C7%80Xam_language) language, recorded by
@@ -13,17 +17,21 @@ Wilhelm Bleek and Lucy Lloyd in the 1870s, are digitised by the
 mostly not transcribed. This prototype tests a pipeline: scan → transcription
 → IPA → searchable SQLite dictionary.
 
-## Pages used
+## Results and pages used
 
 Lucy Lloyd's notebook BC_151_A2_1_009 (L-II-3: 383–475), story
 *[What the people eat and wear (the Anteater's laws)](https://digitalbleeklloyd.uct.ac.za/metadata/stories/Lucy_Lloyd__xam_notebooks/story_200/index.html)*,
 narrated by ǁkabbo.
 
-| Page | Archive viewer | Scan (low resolution) |
-|------|----------------|-----------------------|
-| 449 | [viewer](https://digitalbleeklloyd.uct.ac.za/metadata/books/Lucy_Lloyd__xam_notebooks/BC_151_A2_1_009/A2_1_9_00449.JPG/index.html) | [image](https://digitalbleeklloyd.uct.ac.za/collection/lloyd_xam_nb_lowres/BC_151_A2_1_009/A2_1_9_00449.JPG) |
-| 450 | [viewer](https://digitalbleeklloyd.uct.ac.za/metadata/books/Lucy_Lloyd__xam_notebooks/BC_151_A2_1_009/A2_1_9_00450.JPG/index.html) | [image](https://digitalbleeklloyd.uct.ac.za/collection/lloyd_xam_nb_lowres/BC_151_A2_1_009/A2_1_9_00450.JPG) |
-| 451 | [viewer](https://digitalbleeklloyd.uct.ac.za/metadata/books/Lucy_Lloyd__xam_notebooks/BC_151_A2_1_009/A2_1_9_00451.JPG/index.html) | [image](https://digitalbleeklloyd.uct.ac.za/collection/lloyd_xam_nb_lowres/BC_151_A2_1_009/A2_1_9_00451.JPG) |
+| Page | Archive viewer | Scan (low resolution) | Transcription |
+|------|----------------|-----------------------|---------------|
+| 449 | [viewer](https://digitalbleeklloyd.uct.ac.za/metadata/books/Lucy_Lloyd__xam_notebooks/BC_151_A2_1_009/A2_1_9_00449.JPG/index.html) | [image](https://digitalbleeklloyd.uct.ac.za/collection/lloyd_xam_nb_lowres/BC_151_A2_1_009/A2_1_9_00449.JPG) | [A2_1_9_00449.json](transcriptions/A2_1_9_00449.json) |
+| 450 | [viewer](https://digitalbleeklloyd.uct.ac.za/metadata/books/Lucy_Lloyd__xam_notebooks/BC_151_A2_1_009/A2_1_9_00450.JPG/index.html) | [image](https://digitalbleeklloyd.uct.ac.za/collection/lloyd_xam_nb_lowres/BC_151_A2_1_009/A2_1_9_00450.JPG) | [A2_1_9_00450.json](transcriptions/A2_1_9_00450.json) |
+| 451 | [viewer](https://digitalbleeklloyd.uct.ac.za/metadata/books/Lucy_Lloyd__xam_notebooks/BC_151_A2_1_009/A2_1_9_00451.JPG/index.html) | [image](https://digitalbleeklloyd.uct.ac.za/collection/lloyd_xam_nb_lowres/BC_151_A2_1_009/A2_1_9_00451.JPG) | [A2_1_9_00451.json](transcriptions/A2_1_9_00451.json) |
+
+All three pages as running parallel text (English, /Xam in Lloyd's spelling,
+/Xam in IPA), with uncertainty statistics and a word list:
+[`report.md`](report.md).
 
 The scans are linked, not included, as their reuse terms are unclear.
 
