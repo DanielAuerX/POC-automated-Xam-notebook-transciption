@@ -1,0 +1,6 @@
+data/
+sources/
+
+*.sqlite
+
+__pycache__/

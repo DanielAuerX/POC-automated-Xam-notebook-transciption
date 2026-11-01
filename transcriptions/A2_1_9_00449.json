@@ -1,0 +1,24 @@
+{
+  "notebook": "BC_151_A2_1_009",
+  "notebook_label": "L-II-3: 383-475",
+  "collector": "Lucy Lloyd",
+  "narrator": "ǁkabbo",
+  "story": "What the people eat and wear (the Anteater's laws) (ǁkabbo's version 2)",
+  "page": 449,
+  "image": "data/pages/A2_1_9_00449_R.png",
+  "transcriber": "Claude (vision, zero-shot, guided by TRANSCRIPTION_GUIDE.md)",
+  "lines": [
+    {"n": 1,  "english": "the great hare.",        "xam": "ǀ[nú?]-[x?]ắ,"},
+    {"n": 2,  "english": "That is why the",        "xam": "Hé tĭ hing ḗ, ǀk͓ŭḿ"},
+    {"n": 3,  "english": "Bushmen kill",           "xam": "kă ǃkḗtĕn ǀnĕ ǀkhí"},
+    {"n": 4,  "english": "springbok, because",     "xam": "_whăi_ í, aŭ hăng tátti"},
+    {"n": 5,  "english": "the lynx",               "xam": "ē, _ǀkŭ ǃnwáin_ ×nē"},
+    {"n": 6,  "english": "caught the springbok",   "xam": "ă ǀká ă _whăi_, hé"},
+    {"n": 7,  "english": "therefore the",          "xam": "tĭ hing ḗ, ǀk͓ŭḿ kă"},
+    {"n": 8,  "english": "Bushmen catch",          "xam": "ǃkḗ ǀnĕ ǀká ă _whăi_"},
+    {"n": 9,  "english": "springbok", "interlinear": true, "xam": ""},
+    {"n": 10, "english": "because the",            "xam": "ī̆, aŭ hăng tátti ḗ,"},
+    {"n": 11, "english": "lynx went &",            "xam": "_ǀkŭ ǃnwáin_ ×[nḗ?]"},
+    {"n": 12, "english": "~~brought back~~ returned to a bush,", "xam": "ǂăng ǀ[khú?] ĭtĕn ssing"}
+  ]
+}

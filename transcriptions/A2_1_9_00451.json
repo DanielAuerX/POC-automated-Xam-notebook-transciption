@@ -1,0 +1,24 @@
+{
+  "notebook": "BC_151_A2_1_009",
+  "notebook_label": "L-II-3: 383-475",
+  "collector": "Lucy Lloyd",
+  "narrator": "ǁkabbo",
+  "story": "What the people eat and wear (the Anteater's laws) (ǁkabbo's version 2)",
+  "page": 451,
+  "image": "data/pages/A2_1_9_00451_R.png",
+  "transcriber": "Claude (vision, zero-shot, guided by TRANSCRIPTION_GUIDE.md)",
+  "lines": [
+    {"n": 1,  "english": "\"Bushmen",              "xam": "\"ǀk͓ŭḿ kă ǃkḗtĕn"},
+    {"n": 2,  "english": "shall eat meat",         "xam": "ē̆ ssing hí éń é ǂká,"},
+    {"n": 3,  "english": "which is cooked",        "xam": "[ʂaŭ?] ǀí, ǀk͓ŭḿ kă"},
+    {"n": 4,  "english": "a fire, Bushmen",        "xam": "ǃkḗtĕn é ssing khóng"},
+    {"n": 5,  "english": "shall light fires,",     "xam": "[?]ǀí, hing ǂk͓aḿ ē̆"},
+    {"n": 6,  "english": "shall also ~~roast~~ ^boil^", "xam": "ssing ǃkhaŭ ă, aŭ"},
+    {"n": 7,  "english": "in a pot, they shall",   "xam": "ǃkŏă, hing ǂk͓ăḿ ē̆"},
+    {"n": 8,  "english": "also drink water,",      "xam": "ssing [kuē?] ǃkuá, aŭ"},
+    {"n": 9,  "english": "from ostrich egg-",      "xam": "_ttoĭ_ tă ǃkúĭtĕn, ǀkú-"},
+    {"n": 10, "english": "shells. the lynx",       "xam": "_ǃnwáin yăng_ ắ, ssing"},
+    {"n": 11, "english": "shall eat meat", "interlinear": true, "xam": ""},
+    {"n": 12, "english": "which is raw, also",     "xam": "hí éń ×ē ǀká, hing"}
+  ]
+}

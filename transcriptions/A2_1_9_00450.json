@@ -1,0 +1,25 @@
+{
+  "notebook": "BC_151_A2_1_009",
+  "notebook_label": "L-II-3: 383-475",
+  "collector": "Lucy Lloyd",
+  "narrator": "ǁkabbo",
+  "story": "What the people eat and wear (the Anteater's laws) (ǁkabbo's version 2)",
+  "page": 450,
+  "image": "data/pages/A2_1_9_00450_R.png",
+  "transcriber": "Claude (vision, zero-shot, guided by TRANSCRIPTION_GUIDE.md)",
+  "lines": [
+    {"n": 1,  "english": "bush. then the",         "xam": "ʘhó, hé tĭ hing ḗ,"},
+    {"n": 2,  "english": "little Sp. followed",    "xam": "_whăi_ ʘpuákĕn ǀnĕ"},
+    {"n": 3,  "english": "him, they",              "xam": "ǃkhái tĭ hă, hing ǀnĕ"},
+    {"n": 4,  "english": "walked along,",          "xam": "ǂáng _ttăí_, hé tĭ"},
+    {"n": 5,  "english": "then the anteater",      "xam": "hing ḗ, _ǀkúkĕn ttẽ_"},
+    {"n": 6,  "english": "went & told",            "xam": "ǀnĕ ǂáng ǂkákă"},
+    {"n": 7,  "english": "them, that they",        "xam": "hĭ ā́, tĭ ē, hĭ ǀkú."},
+    {"n": 8,  "english": "should henceforth",      "xam": "ssĭ ǂkóăkĕn. há ĕ́n,"},
+    {"n": 9,  "english": "eat meat; there",        "xam": "hé tĭ hing ḗ, ǀk͓ŭḿ"},
+    {"n": 10, "english": "for the Bushmen",        "xam": "kă ǃkḗ, ǀnĕ ǂkóăkĕn"},
+    {"n": 11, "english": "always henceforth", "interlinear": true, "xam": ""},
+    {"n": 12, "english": "eat them, the",          "xam": "[?] hĭ hí, ǀkúkĕnttĕn ^ǂ[kăkĕn?]^"},
+    {"n": 13, "english": "anteater said:", "interlinear": true, "xam": ""}
+  ]
+}
